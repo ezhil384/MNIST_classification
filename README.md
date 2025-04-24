@@ -8,6 +8,10 @@ This project implements a machine learning pipeline to classify handwritten digi
 
 ---
 
+![Dataset](sample_digits.png)
+
+---
+
 ## 📁 Project Structure
 ```
 .
